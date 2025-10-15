@@ -1,0 +1,228 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-10-14 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2025-10-14 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-10-14 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:dungeons_and_combat": {
+    "criteria": {
+      "dungeons_and_combat_0": "2025-10-14 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-10-14 01:43:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-10-15 02:11:37 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-10-15 01:41:03 +0000",
+      "minecraft:taiga": "2025-10-15 01:37:05 +0000",
+      "minecraft:frozen_river": "2025-10-15 01:15:02 +0000",
+      "minecraft:snowy_plains": "2025-10-14 01:43:42 +0000",
+      "minecraft:stony_shore": "2025-10-14 01:47:19 +0000",
+      "minecraft:snowy_taiga": "2025-10-15 01:15:11 +0000",
+      "minecraft:grove": "2025-10-14 02:16:40 +0000",
+      "minecraft:jagged_peaks": "2025-10-15 02:29:56 +0000",
+      "minecraft:forest": "2025-10-15 02:29:38 +0000",
+      "minecraft:frozen_ocean": "2025-10-15 01:25:18 +0000",
+      "minecraft:snowy_beach": "2025-10-15 01:25:02 +0000",
+      "minecraft:meadow": "2025-10-15 02:13:00 +0000",
+      "minecraft:plains": "2025-10-15 02:11:59 +0000"
+    },
+    "done": false
+  },
+  "block_factorys_bosses:die_boss": {
+    "criteria": {
+      "die_boss_0": "2025-10-14 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-10-14 01:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-10-14 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-10-14 02:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-15 01:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-10-15 01:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-10-15 01:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-10-15 02:57:22 +0000",
+      "bread": "2025-10-15 01:27:35 +0000",
+      "rotten_flesh": "2025-10-15 01:24:13 +0000",
+      "golden_carrot": "2025-10-15 02:41:46 +0000",
+      "enchanted_golden_apple": "2025-10-15 03:25:32 +0000",
+      "rabbit_stew": "2025-10-15 02:56:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-10-15 01:37:20 +0000",
+      "minecraft:creeper": "2025-10-15 02:45:30 +0000",
+      "minecraft:zombie": "2025-10-15 01:33:28 +0000",
+      "minecraft:zombie_villager": "2025-10-15 02:58:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-10-15 01:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-10-15 01:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-10-15 01:36:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_exiled": {
+    "criteria": {
+      "the_exiled_0": "2025-10-15 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:origin": {
+    "criteria": {
+      "origin_0": "2025-10-15 01:37:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-10-15 01:43:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-10-15 01:46:08 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-10-15 02:11:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-10-15 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-10-15 02:30:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-10-15 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-10-15 02:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-15 02:46:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-10-15 02:56:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_grape_seeds": "2025-10-15 03:32:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_cursed_soul": {
+    "criteria": {
+      "the_cursed_soul_0": "2025-10-15 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-10-15 03:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-10-15 03:30:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:now_you_can_rest": {
+    "criteria": {
+      "now_you_can_rest_0": "2025-10-15 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
